@@ -1,0 +1,33 @@
+15.9 应用CAD设计应注意的问题
+
+15.9    应用CAD设计应注意的问题
+开展计算机辅助设计，往往是认识问题多于具体工作问题，管理问题多于技术问题，作为 型号总指挥和总设计师，必须注意以下几个点：
+1)强化CAX 意识与克服初期效应。 CAX 技术是一种新的生产工具，只有通过人的工作才 能使它转变成真正的生产力。不少人强调当前工作忙，对新软件平时没时间学习，要用时又不 会，只得沿用老办法。另有一些人急功好利， 一旦发现新系统建立之初速度还没有老办法快， 怕影响进度，又回到熟悉的老路上去了。
+2)舍得在培训上投资。功能越强的软件，用起来越复杂，工作人员必须经过正规的培训。
+所谓买正版软件，除了尊重知识产权的意义外，最主要的是买服务和培训，因此，要舍得在培训 上投资。不少人认为有了软件和说明书，大学生和研究生就应该自然学会怎么用，再要花钱培 训舍不得。结果就像投巨资买飞机，却不舍得花钱培训飞行员一样，飞机只能永远停在机场 上 。
+3)搞好两支队伍的建设。搞好CAD 专业队伍和型号设计应用队伍的建设和结合是推广 应用计算机辅助设计技术的关键。硬件、网络、软件、数据库、操作系统的维护和管理是一项专 业性很强的工作， 一般的设计人员没有精力兼管这些工作。 一些大型的专业软件，需要有专人 来进行消化和深层次的应用探索，型号设计人员无精力来全面消化说明书。因此必须建设一 支精干的专业队伍，他们是CAD 技术推广应用的桥梁，又是系统维护的骨干。同时要培养 一 支庞大的设计应用队伍，通过他们把CAD 技术变成实际的生产力。
+4)相对稳定，跟踪发展。计算机是当今世界上发展最快的技术之一，现有计算机公司不断 的兼并组合，新的计算机公司不断的诞生，各种软件始终处于不断的新陈代谢中，因此必须跟 踪新技术。同时，作为一个工程研制单位，又要保持相对的技术稳定，要充分发挥现有投资的 作用。
+5)充分利用各类图形交换标准，减少多学科分析的重复建模。
+思  考  题
+1. 当前中国航天的软硬件环境与外国差距并不大，但在应用水平上却存在巨大的差异， 你认为主要原因来自技术的层面还是管理的层面?
+2.  试 论 CAX 技术与型号研制快、好、省的关系。
+3. 如何看待物理样机与电子虚拟样机的关系?在什么情况下虚拟样机可以代替物理样 机 ?
+4. 你认为在你负责的型号中，哪些方面最急需用CAX技术来提高设计质量和设计速度?
+参  考  文  献
+1  唐荣锡，汪嘉业，彭群生等.计算机图形学教程.北京：科学出版社，1999
+2 范玉青.波音公司的无纸设计/制造技术.计算机辅助设计与制造，1996(6)
+3   陈月根.卫星质量特性的CAD集成分析.中国宇航学会优秀论文集(二)(内部),1998
+4 Woo TH.Strutural Optimization of Large Spacecraft.AIAA 92-1227
+5 Vince S M.A2100 Commercial Satellites Integrated Mechanical Analysis.Lockheed Martin Missiles &Space.MSC Aerospace Users Conference.1997
+6  胡海昌.弹性力学的变分原理及其应用.北京：科学出版社1981
+7 Dieter Roos and Alan Diner.Thermal Design Analysis of a Satellite with Articulating Solar Panels.MSC World Aerospace User Conference.1999
+8 Amundsen RM.Some Useful Innovations with TRASYS and SINDA-85,Fifth Annual Thermal and Fluids Analy- sis Workshop August 15-20,1993
+9  闵桂荣主编.航天器热控制.北京：科学出版社，1998
+10  李劲东.卫星热数学模型建模准则.北京空间飞行器总体设计部内部报告，1998
+11    Casani    EK,Thomas    NW.The    Flight     System    Testbed—Faster,Better,Cheaper.JPL,NASA,1998
+12  Liceaga  CA.SPASIM:A   Spacecraft  Simulator.NASA  Langley  Research  Center,1996
+13   David    C.Gruel,Testbed    Verification   of   PATHFINDER's    Martian   Entry,Descent,and    Landing(EDL).JPL, NASA1997
+14  Ferebee  Melvin  J  Patric  Jr.Satellite  System  Design/Simulation  Environment:A  System  Approach  to  Pre-Phase A  Design.AIAA  Paper  No.97-0231
+15  褚桂柏主编.空间飞行器设计.北京：航空工业出版社，1996
+16     Grffiths   C  P.The  Use   of  Automatic   TET  Meshing  within   a  Concurrent  Engineering  environment.British Aerospace Ple.MSC Aerospace Users Conference.1997
+17 John J.Chapman,Virtual Instrument  Simulator  for CERES,NASA Langley Research Center,1997
